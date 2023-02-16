@@ -14,8 +14,8 @@ operator-cli gui start
 
 https://twitter.com/tweet
 https://metamask.io/
-https://discord.com/invite/shardeum
 https://docs.shardeum.org/Network/Endpoints#connect-wallet
+https://discord.com/invite/shardeum
 https://faucet-sphinx.shardeum.org/?_ga=2.140046071.530814709.1676575590-1641400402.1673573664
 curl 2ip.ua
 
