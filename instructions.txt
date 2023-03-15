@@ -19,3 +19,6 @@ https://discord.com/invite/shardeum
 https://faucet-sphinx.shardeum.org/?_ga=2.140046071.530814709.1676575590-1641400402.1673573664
 curl 2ip.ua
 
+#faucet
+https://get-shm.online/
+https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
