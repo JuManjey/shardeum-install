@@ -24,5 +24,5 @@ https://get-shm.online/
 https://chaindrop.org/?chainid=8082&token=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 
-Обновление валидатора до 1.1.2
+Обновление валидатора
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
